@@ -1,0 +1,16 @@
+myenv
+__pycache__
+Server/myenv
+Server/__pycache__
+Server/public.txt
+Server/private_key.pem
+Server/public_key.pem
+Server/username.txt
+Server/downloaded_file0
+Server/downloaded_file1
+public.txt
+private_key.pem
+public_key.pem
+username.txt
+downloaded_file0
+downloaded_file1
